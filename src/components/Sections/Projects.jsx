@@ -82,7 +82,7 @@ export default function Projects() {
                         <Form.Label>
                           <p>
                             <a
-                              href="#"
+                              href="/"
                               className="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover"
                             >
                               How it works
